@@ -19,3 +19,5 @@ Makes final classification
 Think of it like:
 
 Pixels → Edges → Shapes → Objects → Label
+
+I have implemented the working of CNN for image classification for a basic public dataset available publicaly. Refer the IPYNB file.
